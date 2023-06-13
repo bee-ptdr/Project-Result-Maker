@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Fail {
+  background-color: red;
+  color: white;
+}
+
+.Pass {
+  background-color: green;
+  color: white;
+}
+
+.header {
+  background-color: rgba(85, 85, 239, 0.765);
+}
+.header .header-img {
+  width: 50%;
+}
+.header h1 {
+  color: aliceblue;
+}
+
+#section {
+  background-color: rgba(128, 206, 234, 0.833);
+}
+
+#regSec {
+  margin-bottom: 20px;
+}
+#regSec .container {
+  width: 50%;
+  margin-top: 20px;
+}
+#regSec label {
+  width: 60%;
+  white-space: nowrap;
+}
+#regSec .btn {
+  width: 30%;
+  position: relative;
+  left: 35%;
+}
+
+#resultMakeSec .container {
+  width: 80%;
+  margin-top: 20px;
+}
+#resultMakeSec .btn {
+  width: 30%;
+  position: relative;
+  left: 35%;
+}
+
+#studentListSec table {
+  width: 100%;
+  text-align: center;
+}
+#studentListSec table tr, #studentListSec table th, #studentListSec table td {
+  border: 3px solid black;
+}/*# sourceMappingURL=style.css.map */
